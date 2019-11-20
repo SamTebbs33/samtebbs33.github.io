@@ -1,22 +1,20 @@
-## Welcome
+I'm a Computer Science MSci student at the University of Birmingham (graduating in June 2020) and I have an interest in CPU architecture, compilers and operating system development. Check out some of my projects below.
 
-I am Sam and I'm a Computer Science MSci student at the University of Birmingham (graduating in June 2020) and I have an interest in CPU architecture, compilers and operating system development. Check out some of my projects below.
+# Projects
 
-## Projects
-
-### [Pluto](https://github.com/SamTebbs33/pluto)
+## [Pluto](https://github.com/SamTebbs33/pluto)
 I am writing a kernel in [Zig](https://ziglang.org) that targets x86. I will begin work on x86-64, arm and aarch64 backends some time in the future.
 
 It aims to be built entirely from scratch (it will have its own text editor, shell and perhaps even version control system) except for the compiler, which will be a ported version of Zig.
 
 ![Pluto welcome screen](https://github.com/SamTebbs33/pluto/raw/develop/hello.jpg)
 
-### [Fero CPU](https://github.com/SamTebbs33/fero-cpu)
+## [Fero CPU](https://github.com/SamTebbs33/fero-cpu)
 I am designing and implementing an embedded CPU architecture using verilog. The aim is to design an architecture with hardware support for multitasking.
 
-## Awesome things
+# Awesome things
 
-### [Zig](https://ziglang.org)
+## [Zig](https://ziglang.org)
 Zig is an up and coming systems programming language that aims to compete with C. It was created by [andrewrk](https://github.com/andrewrk) and some of my favourite features include:
 
 * **Cross-compilation**: Every build of the compiler supports every backend so you don't have to build a version specific to a certain architecture, and compiling for another platform is as simple as setting the *-target* flag.
