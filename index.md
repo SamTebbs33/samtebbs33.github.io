@@ -1,5 +1,3 @@
-I'm a Computer Science MSci student at the University of Birmingham (graduating in June 2020) and I have an interest in CPU architecture, compilers and operating system development. Check out some of my projects below.
-
 # Projects
 
 ## [Pluto](https://github.com/SamTebbs33/pluto)
