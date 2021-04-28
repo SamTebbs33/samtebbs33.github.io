@@ -1,0 +1,16 @@
+body {
+	color: #ffffff;
+	background: #314267;
+	margin-right: 15%;
+	margin-left: 15%;
+	margin-top: 3%;
+	font-family: "Lucida Console", monospace
+}
+
+a {
+	color: #0C98F5;
+}
+
+a:hover {
+	color: #88C9F3;
+}
